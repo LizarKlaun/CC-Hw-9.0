@@ -1,4 +1,4 @@
-﻿namespace lambdaDz
+﻿namespace C_Hw_9._0
 {
     internal class Program
     {
